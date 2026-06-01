@@ -1,3 +1,6 @@
+<img width="848" height="908" alt="register" src="https://github.com/user-attachments/assets/a2823fc7-d6b8-425b-b92b-992b18c917e2" />
+<img width="970" height="909" alt="login" src="https://github.com/user-attachments/assets/46907529-f058-4fe3-b1a3-dff0fb8108ef" />
+<img width="1009" height="956" alt="Dashboard" src="https://github.com/user-attachments/assets/d972dd98-c6b8-4b26-8da7-b23c89621195" />
 # User Authentication System - Task 2
 
 ## Overview
