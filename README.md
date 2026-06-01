@@ -26,12 +26,18 @@ project Structure
 python-fullstack-task2/
 │
 ├── app.py
+
 ├── database.db
 │
+
 ├── static/
+
 │   └── style.css
 │
 └── templates/
+
     ├── dashboard.html
+    
     ├── login.html
+    
     └── register.html
